@@ -1,0 +1,15 @@
+{
+  "name": "mom_shop",
+  "version": "1.0.0",
+  "description": "the shop about handmade",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build tailwind.css -o output.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
